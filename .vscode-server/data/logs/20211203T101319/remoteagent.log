@@ -1,0 +1,25 @@
+[2021-12-03 10:13:19.905] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-03 10:13:19.905] [remoteagent] [info] Extension host agent started.
+[2021-12-03 10:13:20.147] [remoteagent] [info] [::ffff:127.0.0.1][2dff1076][ManagementConnection] New connection established.
+[2021-12-03 10:13:20.176] [remoteagent] [info] [::ffff:127.0.0.1][520c46c4][ExtensionHostConnection] New connection established.
+[2021-12-03 10:13:20.341] [remoteagent] [info] [::ffff:127.0.0.1][520c46c4][ExtensionHostConnection] <1568> Launched Extension Host Process.
+[2021-12-03 11:48:35.644] [remoteagent] [info] [::ffff:127.0.0.1][172d08a1][ManagementConnection] New connection established.
+[2021-12-03 11:48:35.649] [remoteagent] [info] [::ffff:127.0.0.1][4248d0c7][ExtensionHostConnection] New connection established.
+[2021-12-03 11:48:35.685] [remoteagent] [info] [::ffff:127.0.0.1][4248d0c7][ExtensionHostConnection] <1783> Launched Extension Host Process.
+[2021-12-03 11:57:51.524] [remoteagent] [info] [::ffff:127.0.0.1][172d08a1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-03 11:57:51.525] [remoteagent] [info] [::ffff:127.0.0.1][2dff1076][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-03 17:26:54.565] [remoteagent] [info] [::ffff:127.0.0.1][2dff1076][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-03 17:26:54.566] [remoteagent] [info] [::ffff:127.0.0.1][172d08a1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-03 17:26:54.586] [remoteagent] [info] [::ffff:127.0.0.1][520c46c4][ExtensionHostConnection] The client has reconnected.
+[2021-12-03 17:26:54.729] [remoteagent] [info] [::ffff:127.0.0.1][2dff1076][ManagementConnection] The client has reconnected.
+[2021-12-03 17:29:24.247] [remoteagent] [info] [::ffff:127.0.0.1][172d08a1][ManagementConnection] The client has reconnected.
+[2021-12-03 17:29:32.249] [remoteagent] [info] [::ffff:127.0.0.1][4248d0c7][ExtensionHostConnection] The client has reconnected.

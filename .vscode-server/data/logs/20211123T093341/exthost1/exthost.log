@@ -1,0 +1,7 @@
+[2021-11-23 09:33:45.872] [exthost] [info] Extension host with pid 911 started
+[2021-11-23 09:33:45.955] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/3ffa920f9ad6375b4ce039a6cefe6d4d/vscode.lock': Lock acquired.
+[2021-11-23 09:33:46.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-23 09:33:46.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-23 09:33:48.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-23 09:33:48.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 09:33:48.654] [exthost] [info] Eager extensions activated

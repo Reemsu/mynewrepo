@@ -1,0 +1,312 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/reem/vscode_test/vscode_test
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/reemsu/vscode_test.git/'
+> git show --textconv :test.py
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.py
+> git cat-file -s f2e8ff4a61d6c7c70d981d717cd25fd6465ddaab
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/reem/vscode_test/vscode_test/test.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.py
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :test.py
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:vscode_test/test.py
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/test.py
+> git check-ignore -v -z --stdin
+> git add -A -- /home/reem/vscode_test/vscode_test/vscode_test/test.py
+warning: could not open directory 'vscode_test/vscode_test/': No such file or directory
+fatal: pathspec '/home/reem/vscode_test/vscode_test/vscode_test/test.py' did not match any files
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/reem/vscode_test/vscode_test/vscode_test/test.py
+warning: could not open directory 'vscode_test/vscode_test/': No such file or directory
+fatal: pathspec '/home/reem/vscode_test/vscode_test/vscode_test/test.py' did not match any files
+> git show --textconv :test.log
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.log
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/.gitignore
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :test.log
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.log
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/.gitignore
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/reem/vscode_test/vscode_test/.gitignore
+> git show --textconv :test2.log
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test2.log
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/.gitignore
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :test.log
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.log
+> git show --textconv :test2.log
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test2.log
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/.gitignore
+> git show --textconv :test.py
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/reem/vscode_test/vscode_test/test.py
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/.gitignore
+> git show --textconv :test.log
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.log
+> git show --textconv :test.py
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/test.py
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/reem/vscode_test/vscode_test/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git clean -f -q -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+warning: could not open directory 'vscode_test/vscode_test/': No such file or directory
+> git checkout -q
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+warning: could not open directory 'vscode_test/vscode_test/': No such file or directory
+fatal: pathspec '/home/reem/vscode_test/vscode_test/vscode_test/.gitignore' did not match any files
+> git show --textconv HEAD:vscode_test/.gitignore
+> git ls-tree -l HEAD -- /home/reem/vscode_test/vscode_test/vscode_test/.gitignore
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/reemsu/vscode_test
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+To https://github.com/reemsu/vscode_test.git
+   f9d3c9c..8cae8a5  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/reem/vscode_test/vscode_test/.gitignore
+> git check-ignore -v -z --stdin
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/reemsu/vscode_test
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+To https://github.com/reemsu/vscode_test.git
+   8cae8a5..57bc50c  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/reem/vscode_test/vscode_test/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

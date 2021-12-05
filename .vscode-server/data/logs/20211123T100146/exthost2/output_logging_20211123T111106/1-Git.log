@@ -1,0 +1,15 @@
+Validating found git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/reem/repos' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git clone https://github.com/reemsu/vscode_test.git /home/reem/vscode_test/vscode_test --progress
+Cloning into '/home/reem/vscode_test/vscode_test'...
+remote: Enumerating objects: 11, done.        
+remote: Counting objects:   9% (1/11)        remote: Counting objects:  18% (2/11)        remote: Counting objects:  27% (3/11)        remote: Counting objects:  36% (4/11)        remote: Counting objects:  45% (5/11)        remote: Counting objects:  54% (6/11)        remote: Counting objects:  63% (7/11)        remote: Counting objects:  72% (8/11)        remote: Counting objects:  81% (9/11)        remote: Counting objects:  90% (10/11)        remote: Counting objects: 100% (11/11)        remote: Counting objects: 100% (11/11), done.        
+remote: Compressing objects:  20% (1/5)        remote: Compressing objects:  40% (2/5)        remote: Compressing objects:  60% (3/5)        remote: Compressing objects:  80% (4/5)        remote: Compressing objects: 100% (5/5)        remote: Compressing objects: 100% (5/5), done.        
+remote: Total 11 (delta 3), reused 8 (delta 0), pack-reused 0        

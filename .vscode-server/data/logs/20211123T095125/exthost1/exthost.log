@@ -1,0 +1,35 @@
+[2021-11-23 09:51:40.977] [exthost] [info] Extension host with pid 116 started
+[2021-11-23 09:51:41.002] [exthost] [error] Error: EEXIST: file already exists, open '/home/reem/.vscode-server/data/User/workspaceStorage/3ffa920f9ad6375b4ce039a6cefe6d4d/vscode.lock'
+[2021-11-23 09:51:41.091] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/3ffa920f9ad6375b4ce039a6cefe6d4d/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-11-23 09:51:41.111] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/3ffa920f9ad6375b4ce039a6cefe6d4d/vscode.lock': The pid 911 appears to be gone.
+[2021-11-23 09:51:41.112] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/3ffa920f9ad6375b4ce039a6cefe6d4d/vscode.lock': Deleting a stale lock.
+[2021-11-23 09:51:41.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-23 09:51:41.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-23 09:51:41.784] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/3ffa920f9ad6375b4ce039a6cefe6d4d/vscode.lock': Lock acquired.
+[2021-11-23 09:51:45.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-23 09:51:45.485] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 09:51:45.521] [exthost] [info] Eager extensions activated
+[2021-11-23 09:58:29.265] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 09:59:50.576] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 09:59:55.927] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:01.348] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:06.792] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:12.251] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:18.643] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:24.812] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:30.184] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:35.579] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:40.967] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:52.138] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:00:57.585] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:03.087] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:08.727] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:14.132] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:19.567] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:24.999] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:30.439] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:35.914] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:41.385] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1335
+[2021-11-23 10:01:42.527] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-23 10:01:42.528] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/3ffa920f9ad6375b4ce039a6cefe6d4d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-23 10:01:43.548] [exthost] [info] Extension host with pid 116 exiting with code 0

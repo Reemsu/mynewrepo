@@ -1,0 +1,10 @@
+[2021-11-23 11:11:05.715] [exthost] [info] Extension host with pid 2975 started
+[2021-11-23 11:11:05.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-23 11:11:05.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-23 11:11:06.186] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/9b688e7b869812a9d5c6eb56d3fbc29f/vscode.lock': Lock acquired.
+[2021-11-23 11:11:06.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-23 11:11:07.043] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 11:11:07.086] [exthost] [info] Eager extensions activated
+[2021-11-23 11:17:09.595] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-23 11:17:09.598] [exthost] [info] Lock '/home/reem/.vscode-server/data/User/workspaceStorage/9b688e7b869812a9d5c6eb56d3fbc29f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-23 11:17:10.633] [exthost] [info] Extension host with pid 2975 exiting with code 0
